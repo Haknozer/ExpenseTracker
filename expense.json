@@ -1,0 +1,16 @@
+{
+    "Car": [
+        {
+            "id": 3,
+            "date": "10/23/24",
+            "description": "Car washes",
+            "amount": "35"
+        },
+        {
+            "id": 4,
+            "date": "10/23/24",
+            "description": "Car washes",
+            "amount": "45"
+        }
+    ]
+}
